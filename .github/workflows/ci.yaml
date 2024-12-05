@@ -5,6 +5,7 @@ on:
     branches:
       - '**'
 
+# env files
 env:
   CONTAINER_REPOSITORY: quay.io/thomasvanwaeyenbergeae
   CONTAINER_IMAGE: alm-workshop
