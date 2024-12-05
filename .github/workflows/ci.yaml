@@ -5,6 +5,9 @@ on:
     branches:
       - '**'
 
+  release:
+    types: [published]
+
 # env files
 env:
   CONTAINER_REPOSITORY: quay.io/thomasvanwaeyenbergeae
