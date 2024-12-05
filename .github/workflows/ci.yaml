@@ -8,7 +8,7 @@ on:
 # env files
 env:
   CONTAINER_REPOSITORY: quay.io/thomasvanwaeyenbergeae
-  CONTAINER_IMAGE: alm-workshop
+  CONTAINER_IMAGE: alm_workshop
   GOLANG_VERSION: 1.23
 
 jobs:
